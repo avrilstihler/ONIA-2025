@@ -60,6 +60,38 @@ Vale ressaltar que o cálculo da Medida-F foi realizado apenas com base nas prev
 
 O código também salva as predições no arquivo `predicoes.csv`, que contém o **id** de cada planeta no conjunto de teste e a classe prevista pelo modelo.
 
+# Saída Esperada
+````py
+Medida-F (F1-Score) no conjunto de treinamento: 1.0000
+Medida-F (F1-Score) em validação cruzada: 0.7489
+
+Predições no conjunto de treinamento (10 primeiras linhas):
+      id  target  resultado_previsto
+0  12251       2                   2
+1   4529       0                   0
+2  11284       0                   0
+3  10993       2                   2
+4  12927       3                   3
+5   4294       0                   0
+6  10851       0                   0
+7   4419       0                   0
+8  14190       0                   0
+9   1076       0                   0
+
+Predições no conjunto de teste (10 primeiras linhas):
+      id  resultado_previsto
+0   2142                   0
+1   3846                   0
+2   6177                   0
+3  11779                   0
+4   1593                   0
+5  14748                   0
+6  11962                   1
+7   3464                   0
+8  12335                   0
+9   8760                   0
+````
+
 ## Conclusão
 
 Embora não tenha avançado para a **quarta fase** da ONIA 2025, o desempenho do modelo de **Random Forest** foi notável, mostrando a capacidade do algoritmo de lidar com o problema de previsão de classes com dados rotulados no treinamento e dados não rotulados no teste. O modelo pode ser aprimorado com ajustes em parâmetros, mais dados ou técnicas de pré-processamento avançadas.
