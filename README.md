@@ -18,10 +18,10 @@ O repositório está estruturado da seguinte forma:
 
 ```
 /codigo
-    ├── treino.csv               # Dados de treinamento rotulados
-    ├── teste.csv                # Dados de teste não rotulados
+    ├── main.py                  # Código do modelo Random Forest
     ├── predicoes.csv            # Resultados das previsões no conjunto de teste
-    └── main.py             # Código do modelo Random Forest
+    ├── teste.csv                # Dados de teste não rotulados
+    └── treino.csv               # Dados de treinamento rotulados
 ```
 
 ## Descrição do Código
