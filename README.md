@@ -18,6 +18,8 @@ O repositório está estruturado da seguinte forma:
 
 ```
 /codigo
+    ├── README.md                # Arquivo de documentação do projeto
+    ├── grafico-onia2025.png     # Gráfico gerado durante a execução do modelo
     ├── main.py                  # Código do modelo Random Forest
     ├── predicoes.csv            # Resultados das previsões no conjunto de teste
     ├── teste.csv                # Dados de teste não rotulados
@@ -60,7 +62,7 @@ Vale ressaltar que o cálculo da Medida-F foi realizado apenas com base nas prev
 
 O código também salva as predições no arquivo `predicoes.csv`, que contém o **id** de cada planeta no conjunto de teste e a classe prevista pelo modelo.
 
-# Saída Esperada
+## Saída Esperada
 ````py
 Medida-F (F1-Score) no conjunto de treinamento: 1.0000
 Medida-F (F1-Score) em validação cruzada: 0.7489
@@ -91,6 +93,9 @@ Predições no conjunto de teste (10 primeiras linhas):
 8  12335                   0
 9   8760                   0
 ````
+
+![Gráfico Gerado](grafico-onia2025.png)
+
 
 ## Conclusão
 
