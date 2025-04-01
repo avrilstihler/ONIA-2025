@@ -1,5 +1,7 @@
 # Modelo de IA para Previsão de Dados - ONIA 2025  🤖📊💻
 
+> "Sem esforço, não há progresso. Mesmo nas falhas, encontramos lições que nos impulsionam para frente."
+
 Este repositório contém o código utilizado na terceira fase da **Olimpíada Nacional de Inteligência Artificial (ONIA) 2025**<sup>1</sup>, que consistia em desenvolver um modelo de aprendizado de máquina para prever o target<sup>2</sup> de um conjunto de dados de teste, com base em um conjunto de dados de treinamento rotulado. 
 O modelo criado foi um **Random Forest Classifier**, um algoritmo robusto de **ensemble learning** que combina várias árvores de decisão para fazer previsões de forma precisa e eficiente.
 
