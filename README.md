@@ -2,12 +2,12 @@
 > "Sem esforço, não há progresso. Mesmo nas falhas, encontramos lições que nos impulsionam para frente."
 
 ## 📌 Sumário  
-- [Introdução](#-introdução)  
-- [Estrutura do Repositório](#-estrutura-do-repositório)  
-- [Descrição do Código](#-descrição-do-código)  
-- [Resultados Obtidos](#-resultados-obtidos)  
-- [Saída Esperada](#-saída-esperada)  
-- [Conclusão](#-conclusão)  
+- [Introdução](#introdução)  
+- [Estrutura do Repositório](#estrutura-do-repositório)  
+- [Descrição do Código](#descrição-do-código)  
+- [Resultados Obtidos](#resultados-obtidos)  
+- [Saída Esperada](#saída-esperada)  
+- [Conclusão](#conclusão)  
 
 
 ## Introdução
