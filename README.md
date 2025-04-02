@@ -1,4 +1,4 @@
-# Modelo de IA para Previsão de Dados - ONIA 2025  🤖📊💻
+# Modelo de IA para Previsão de Dados - ONIA 2025  🤖
 
 > "Sem esforço, não há progresso. Mesmo nas falhas, encontramos lições que nos impulsionam para frente."
 
